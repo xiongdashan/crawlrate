@@ -1,0 +1,11 @@
+[data]
+url=https://www.xe.com/zh-CN/currencyconverter/convert/?Amount=1&
+currency=CNY-HKD,USD-HKD,THB-HKD,TWD-HKD,AUD-HKD,RUB-HKD,MYR-HKD,EUR-HKD,CAD-HKD,ZAR-HKD
+mail=xaoxong@gmail.com
+nsq=127.0.0.1:4150
+topic=data
+crawlTime=14:40 
+
+
+[db]
+conn = host=localhost user=dbUser dbname=tools sslmode=disable password=dbuserPwd
